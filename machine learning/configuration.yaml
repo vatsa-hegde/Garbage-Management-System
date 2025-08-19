@@ -1,0 +1,13 @@
+# data.yaml
+train: E:\MyProjects\Garbage management system\ML\data\yolo\images\train
+val: E:\MyProjects\Garbage management system\ML\data\yolo\images\val
+
+# Class names
+names:
+  0: cardboard
+  1: glass
+  2: metal
+  3: paper
+  4: plastic
+  5: trash
+  6: biological
